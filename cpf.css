@@ -37,3 +37,10 @@ label{
     border-radius: 5px;
     width: 100%;
 }
+
+.message{
+    margin-top: 10px;
+    padding: 10px;
+    border-radius: 5px;
+    display: none;
+}
