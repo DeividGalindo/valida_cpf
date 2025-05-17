@@ -29,4 +29,4 @@ O algoritmo implementado realiza dois cálculos principais, correspondentes aos 
 
 # Autor
 
-[<img src="imagem/Deivid.jpg" width=95><br><sub>Deivid Galindo</sub>](https://github.com/DeividGalindo)
+[<img src="Deivid.jpg" width=95><br><sub>Deivid Galindo</sub>](https://github.com/DeividGalindo)
